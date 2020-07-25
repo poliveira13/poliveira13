@@ -32,7 +32,7 @@
     alt="sobre mim"
     target="blank"
   >
-    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/sobre.svg" width="200" />
+    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/sobre.svg" width="100" />
   </a>
 </p>
 
@@ -40,8 +40,10 @@
   Hey, I'm Priscila! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Front-End Developer <b>Web / Mobile</b>
-</p>
-<p align="center">
   JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flaxbox | Git | Ionic | Vue.JS
 </p>
+<h5 align="center">
+  📌 Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
+</h5>
+<br>
+<h5>💼 Front-End Developer <b>Web / Mobile</b></h5>
