@@ -9,20 +9,20 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/linkedin.svg" width="200" />
+    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/linkedin.svg" width="50" />
   </a>
   <a
     href="mailto:poliveira13@hotmail.com" 
     alt="email"
     target="blank"
   >
-     <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/email.svg" width="200"/>
+     <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/email.svg" width="50"/>
   <a
     href="https://web.whatsapp.com/send?phone=+5512981967859" 
     alt="WhatsApp"
     target="blank"
   >
-    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/whats.svg" width="200" />
+    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/whats.svg" width="50" />
   </a>
 </p>
 
