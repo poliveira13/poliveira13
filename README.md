@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/cabecalho.svg" width="600"
   alt="Priscila oliveira" />
-</p>
-
-<p align="center">
+  <br>
   <a
     href="https://www.linkedin.com/in/priscila-oliveira-893b3451/" 
     alt="LinkedIn"
@@ -25,7 +23,6 @@
     <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/whats.svg" width="50" />
   </a>
 </p>
-
 <p>
 <a
     href=" " 
