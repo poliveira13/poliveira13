@@ -45,4 +45,4 @@
 <h5 align="center">
   📌 Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h5>
-<h5>💼 Front-End Developer <b>Web / Mobile</b></h5>
+<h5 align="center">💼 Front-End Developer <b>Web /    Mobile</b> at Mult-E Engenharia Digital </h5>
