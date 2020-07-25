@@ -32,7 +32,7 @@
     alt="sobre mim"
     target="blank"
   >
-    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/sobre.svg" width="100" />
+    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/sobre.svg" width="150" />
   </a>
 </p>
 
@@ -43,6 +43,6 @@
   JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flaxbox | Git | Ionic | Vue.JS
 </p>
 <h5 align="center">
-  📌 Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
+  📌  Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h5>
 <h5 align="center">💼 Front-End Developer <b>Web /    Mobile</b> at Mult-E Engenharia Digital </h5>
