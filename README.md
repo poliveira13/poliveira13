@@ -45,5 +45,4 @@
 <h5 align="center">
   📌 Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h5>
-<br>
 <h5>💼 Front-End Developer <b>Web / Mobile</b></h5>
