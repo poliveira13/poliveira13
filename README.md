@@ -26,20 +26,22 @@
 <p>
 <a
     href=" " 
-    alt="sobre mim"
+    alt="About for me"
     target="blank"
   >
-    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/sobre.svg" width="150" />
+    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/about.svg" width="150" />
   </a>
 </p>
 
 <h4 align="center">
-  Hey, I'm Priscila! 👋
+  Hello, I'm Priscila! 👋
 </h4>
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flaxbox | Git | Ionic | Vue.JS
+  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flaxbox | Bootsrap | Git | Ionic | Vue.JS | UX
 </p>
 <h5 align="center">
   📌  Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h5>
+<h5 align="center">🤓 I love to learn</h5>
+<h5 align="center">🐱 Crazy Cat Lady </h5>
 <h5 align="center">💼 Front-End Developer <b>Web /    Mobile</b> at Mult-E Engenharia Digital </h5>
