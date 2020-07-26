@@ -29,7 +29,7 @@
     alt="About for me"
     target="blank"
   >
-    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/about.svg" width="150" />
+    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/aboutsvg.svg" width="150" />
   </a>
 </p>
 
