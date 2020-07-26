@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/cabecalho.svg" width="600"
+  <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/cabecalho.svg" width="100%"
   alt="Priscila oliveira" />
   <br>
   <a
@@ -7,20 +7,20 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/linkedin.svg" width="50" />
+    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/linkedin.svg" width="8%" padding="2%" />
   </a>
   <a
     href="mailto:poliveira13@hotmail.com" 
     alt="email"
     target="blank"
   >
-     <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/email.svg" width="50"/>
+     <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/email.svg" width="8%" padding="2%"/>
   <a
     href="https://web.whatsapp.com/send?phone=+5512981967859" 
     alt="WhatsApp"
     target="blank"
   >
-    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/whats.svg" width="50" />
+    <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/whats.svg" width="8%" padding="2%" />
   </a>
 </p>
 <p>
