@@ -37,7 +37,7 @@
   Hello, I'm Priscila! 👋
 </h4>
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flaxbox | Bootsrap | Git | Ionic | Vue.JS | UX
+  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flaxbox | Bootsrap | Ionic | Vue.JS | UX
 </p>
 <h5 align="center">
   📌  Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
