@@ -14,7 +14,7 @@
     alt="email"
     target="blank"
   >
-     <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/email.svg" width="8%" />
+     <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/linkedin.svg" width="8%" />
   <a
     href="https://web.whatsapp.com/send?phone=+5512981967859" 
     alt="WhatsApp"
@@ -43,5 +43,4 @@
   📌  Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h4>
 <h4 align="center">🤓 I love to learn</h4>
-<h4 align="center">🐱 Crazy Cat Lady </h4>
 <h4 align="center">💼 Front-End Developer <b>Web /    Mobile</b> at Mult-E Engenharia Digital </h4>
