@@ -14,7 +14,7 @@
     alt="email"
     target="blank"
   >
-     <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/linkedin.svg" width="8%" />
+     <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/email.svg" width="8%" />
   <a
     href="https://web.whatsapp.com/send?phone=+5512981967859" 
     alt="WhatsApp"
