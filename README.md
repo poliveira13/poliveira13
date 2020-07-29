@@ -33,15 +33,15 @@
   </a>
 </p>
 
-<h4 align="center">
+<h3 align="center">
   Hello, I'm Priscila! 👋
-</h4>
+</h3>
 <p align="center">
   JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flexbox | Bootsrap | Ionic | Vue.JS | UX
 </p>
-<h5 align="center">
+<h4 align="center">
   📌  Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
-</h5>
-<h5 align="center">🤓 I love to learn</h5>
-<h5 align="center">🐱 Crazy Cat Lady </h5>
-<h5 align="center">💼 Front-End Developer <b>Web /    Mobile</b> at Mult-E Engenharia Digital </h5>
+</h4>
+<h4 align="center">🤓 I love to learn</h4>
+<h4 align="center">🐱 Crazy Cat Lady </h4>
+<h4 align="center">💼 Front-End Developer <b>Web /    Mobile</b> at Mult-E Engenharia Digital </h4>
