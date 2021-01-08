@@ -43,4 +43,4 @@
   📌  Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h4>
 <h4 align="center">🤓 I love to learn</h4>
-<h4 align="center">💼 Front-End Developer <b>Web /    Mobile</b> at Mult-E Engenharia Digital </h4>
+<h4 align="center">💼 Front-End Developer <b>Web /    Mobile</b> at Labsit <3 </h4>
