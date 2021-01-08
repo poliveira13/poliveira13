@@ -43,4 +43,4 @@
   📌  Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h4>
 <h4 align="center">🤓 I love to learn</h4>
-<h4 align="center">💼 Software engineer at Labsit <3 <b>with focus in mobile React Native </b></h4>
+<h4 align="center">💼 Software engineer at Labsit 💞 <b>with focus in mobile React Native </b></h4>
