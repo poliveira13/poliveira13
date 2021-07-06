@@ -37,10 +37,10 @@
   Hello, I'm Priscila! 👋
 </h3>
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flexbox | CSS GRID | Ionic | Vue.JS | UX
+  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Flexbox | CSS GRID | Ionic | UX
 </p>
 <h4 align="center">
   📌  Living in <b>São José dos Campos</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h4>
 <h4 align="center">🤓 I love to learn</h4>
-<h4 align="center">💼 Software engineer at Labsit 💞 <b>with focus in mobile React Native </b></h4>
+<h4 align="center">💼 Analyst Front-end mobile at Avanade 💞 <b>with focus in React Native </b></h4>
