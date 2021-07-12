@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/cabecalho.svg" width="100%"
+  <img src="https://github.com/poliveira13/poliveira13/blob/master/.github/assets/cabecalho.svg" width="90%"
   alt="Priscila oliveira" />
   <br>
   <a
